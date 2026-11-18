@@ -1,0 +1,9 @@
+{
+  "name": "brainrot-server",
+  "version": "1.0.0",
+  "description": "Multiplayer relay for Steal a Brainrot 3D",
+  "main": "brainrot-server.js",
+  "scripts": { "start": "node brainrot-server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
